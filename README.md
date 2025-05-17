@@ -6,8 +6,7 @@ This is a smart wheelchair project that integrates voice commands, manual  contr
 ## Demo Video
 
 Watch the full working demo:  
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
+https://youtube.com/shorts/wgEIt59e-DI?si=VCiNE3fT3zECSc7r
 > Includes Bluetooth pairing, app controls (manual, auto, voice), and real-time movement of the wheelchair.
 
 ---
